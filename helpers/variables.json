@@ -1,0 +1,9 @@
+{
+    "logs": {
+        "errorLog": "error_",
+        "infoLog": "info_"
+    },
+    "hostnameProd": "",
+    "hostnameUrlDev": "http://localhost:5000",
+    "Errors": { }    
+}
